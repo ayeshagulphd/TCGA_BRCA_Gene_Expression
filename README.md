@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15863921.svg)](https://doi.org/10.5281/zenodo.15863921)
+
 TCGA-BRCA Gene Expression Analysis
 
 A comprehensive gene expression analysis of BRCA2, TP53, and AR using RNA-Seq data from The Cancer Genome Atlas (TCGA) Breast Invasive Carcinoma (BRCA) cohort. This project was completed using RStudio, Bioconductor, and open-source tools to explore expression patterns and generate clinical insights.
